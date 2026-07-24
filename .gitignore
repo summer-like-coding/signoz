@@ -232,3 +232,6 @@ pyrightconfig.json
 # dev
 .dev/
 .claude/worktrees/
+
+# OpenCode deepwork progress
+.slim/deepwork/
